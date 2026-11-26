@@ -6,9 +6,9 @@ CONV2D_KERNAL_SIZE_2 = 3
 
 DENSE_HIDDEN = 128
 
-LEARNING_RATE = 1e-3
+LEARNING_RATE = 1e-4
 
-EPOCHS = 5
+EPOCHS = 20
 
 import tensorflow as tf
 
