@@ -16,7 +16,7 @@ import tensorflow as tf
 from PIL import Image, ImageDraw
 
 # ---------------- Settings ----------------
-MODEL_PATH = "/home/gokhau/Desktop/CharaterRecognitionML/model_outputs/num_lett/best_model.keras"
+MODEL_PATH = "./model_outputs/num_lett/best_model.keras"
 
 # EMNIST "byclass" order: 0-9, A-Z, a-z (62 classes).
 # Change this if your labels are ordered differently.
